@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>AtlasRegion7 – North America Feed</title>
+    <link>index.html</link>
+    <description>Latest gaming news, reviews and esports updates from North America.</description>
+    <language>en-us</language>
+    <item>
+      <title>PS6 Performance Review: The Future of Console Gaming</title>
+      <link>article.html?slug=ps6-performance-review-future-console-gaming</link>
+      <description>After months of anticipation, the PlayStation 6 has arrived. Our technical analysis reveals where it shines and where next‑gen expectations fall short.</description>
+      <guid isPermaLink="false">ps6-performance-review-future-console-gaming</guid>
+      <pubDate>Tue, 24 Feb 2026 00:00:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>Valorant Champions 2025: North America Triumphs in Thrilling Finals</title>
+      <link>article.html?slug=valorant-champions-2025-finals</link>
+      <description>North America's elite clashed on the world stage as Valorant Champions 2025 came to a nail‑biting conclusion. Here's how the series unfolded and what it means for the region's dominance.</description>
+      <guid isPermaLink="false">valorant-champions-2025-finals</guid>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 -0000</pubDate>
+    </item>
+  </channel>
+</rss>

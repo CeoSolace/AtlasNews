@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "role": "admin",
+    "plan": "paid",
+    "subscriptionStart": "2026-01-01",
+    "subscriptionExpires": "2027-01-01"
+  },
+  {
+    "id": 2,
+    "username": "modSara",
+    "role": "moderator",
+    "plan": "paid",
+    "subscriptionStart": "2026-02-15",
+    "subscriptionExpires": "2027-02-15"
+  },
+  {
+    "id": 3,
+    "username": "writerTom",
+    "role": "writer",
+    "plan": "paid",
+    "subscriptionStart": "2026-02-01",
+    "subscriptionExpires": "2026-08-01"
+  },
+  {
+    "id": 4,
+    "username": "reviewerAnna",
+    "role": "reviewer",
+    "plan": "paid",
+    "subscriptionStart": "2026-02-10",
+    "subscriptionExpires": "2026-08-10"
+  },
+  {
+    "id": 5,
+    "username": "gamerMike",
+    "role": "user",
+    "plan": "free",
+    "subscriptionStart": null,
+    "subscriptionExpires": null
+  },
+  {
+    "id": 6,
+    "username": "proPaidUser",
+    "role": "user",
+    "plan": "paid",
+    "subscriptionStart": "2026-02-20",
+    "subscriptionExpires": "2027-02-20"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Keyboard Upgrade",
+    "location": "top-banner",
+    "image": "assets/ad-banner.png",
+    "link": "https://example.com/keyboard",
+    "regions": ["north-america", "western-europe", "asia"],
+    "startDate": "2026-02-01",
+    "endDate": "2026-03-31"
+  },
+  {
+    "id": 2,
+    "name": "Gaming Laptop",
+    "location": "sidebar",
+    "image": "assets/ad-sidebar.png",
+    "link": "https://example.com/laptop",
+    "regions": ["global"],
+    "startDate": "2026-02-15",
+    "endDate": "2026-04-01"
+  },
+  {
+    "id": 3,
+    "name": "Energy Drink",
+    "location": "mid-article",
+    "image": "assets/ad-mid.png",
+    "link": "https://example.com/energy",
+    "regions": ["south-america", "africa", "asia"],
+    "startDate": "2026-02-10",
+    "endDate": "2026-03-10"
+  },
+  {
+    "id": 4,
+    "name": "Premium Upgrade",
+    "location": "footer",
+    "image": null,
+    "link": "login.html?upgrade=true",
+    "regions": ["global"],
+    "startDate": "2026-01-01",
+    "endDate": "2027-01-01"
+  }
+]

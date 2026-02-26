@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AtlasRegion7 – Western Europe</title>
+  <!-- Load data and utilities prior to setting region -->
+  <script src="js/api.js"></script>
+  <script src="js/common.js"></script>
+  <script>
+    // Immediately set the preferred region and redirect to the homepage.  When
+    // navigating directly to this file the user’s region will be updated and
+    // persisted via localStorage.  Once set, the homepage (index.html)
+    // populates articles and ads according to the selected region.
+    document.addEventListener('DOMContentLoaded', function () {
+      setRegionPreference('western-europe');
+      window.location.href = 'index.html';
+    });
+  </script>
+</head>
+<body></body>
+</html>

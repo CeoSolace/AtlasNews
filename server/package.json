@@ -1,0 +1,20 @@
+{
+  "name": "atlasregion7-server",
+  "version": "1.0.0",
+  "description": "Backend API for AtlasRegion7 gaming news platform",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "seed": "node seed.js"
+  },
+  "author": "AtlasRegion7",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^8.0.0"
+  }
+}

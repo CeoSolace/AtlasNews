@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>AtlasRegion7 – Western Europe Feed</title>
+    <link>index.html</link>
+    <description>Latest gaming news, reviews and esports updates from Western Europe.</description>
+    <language>en-us</language>
+    <item>
+      <title>Western Europe's Rising Esports Stars You Need to Watch</title>
+      <link>article.html?slug=western-europe-rising-esports-stars</link>
+      <description>As the esports scene matures, a new crop of prodigies is emerging across Western Europe. We profile the players pushing the boundaries of skill and showmanship.</description>
+      <guid isPermaLink="false">western-europe-rising-esports-stars</guid>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 -0000</pubDate>
+    </item>
+  </channel>
+</rss>

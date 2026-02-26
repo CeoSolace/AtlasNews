@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>AtlasRegion7 – Africa Feed</title>
+    <link>index.html</link>
+    <description>Latest gaming news, reviews and esports updates from Africa.</description>
+    <language>en-us</language>
+    <item>
+      <title>African Games Studio Breaks Ground with Sci‑Fi Epic</title>
+      <link>article.html?slug=african-games-studio-sci-fi-epic</link>
+      <description>Nairobi‑based Celestial Forge announced its debut project, an ambitious sci‑fi action RPG that promises to showcase African storytelling on a global stage.</description>
+      <guid isPermaLink="false">african-games-studio-sci-fi-epic</guid>
+      <pubDate>Sat, 21 Feb 2026 00:00:00 -0000</pubDate>
+    </item>
+  </channel>
+</rss>

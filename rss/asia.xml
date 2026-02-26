@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>AtlasRegion7 – Asia Feed</title>
+    <link>index.html</link>
+    <description>Latest gaming news, reviews and esports updates from Asia.</description>
+    <language>en-us</language>
+    <item>
+      <title>Esports Pulse: Week of February 26, 2026</title>
+      <link>article.html?slug=esports-pulse-feb26-2026</link>
+      <description>Our Esports Pulse recaps the biggest stories in competitive gaming. This week saw major roster changes and prize pool announcements that set new records.</description>
+      <guid isPermaLink="false">esports-pulse-feb26-2026</guid>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>Horizon Zero Dawn PS6 Review: A Stunning Return to Post‑Apocalypse</title>
+      <link>article.html?slug=horizon-zero-dawn-ps6-review</link>
+      <description>Sony's beloved open‑world adventure returns on next‑gen hardware. We dissect its performance, visuals and new content on the PS6 platform.</description>
+      <guid isPermaLink="false">horizon-zero-dawn-ps6-review</guid>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 -0000</pubDate>
+    </item>
+  </channel>
+</rss>

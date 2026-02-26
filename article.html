@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>AtlasRegion7 – Article</title>
+  <meta name="description" content="Detailed article page on AtlasRegion7">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <div class="logo-container">
+      <img src="assets/logo.png" alt="AtlasRegion7 Logo">
+      <span>AtlasRegion7</span>
+    </div>
+    <div id="header-user" style="cursor:pointer; font-size:0.85rem;"></div>
+  </header>
+  <div class="container">
+    <div id="article-ad-top"></div>
+    <article>
+      <h1 id="article-title"></h1>
+      <p id="article-subtitle" style="color: var(--color-gold);"></p>
+      <p id="article-meta" style="font-size:0.8rem; color: var(--color-gray); margin-bottom:1rem;"></p>
+      <img id="article-image" src="" alt="Article Image" style="width:100%; height:auto; border-radius:8px; margin-bottom:1rem;">
+      <div id="article-content"></div>
+    </article>
+    <div id="article-ad-mid" style="margin:2rem 0;"></div>
+    <section class="comments-section">
+      <h3>Comments</h3>
+      <div id="comments-container"></div>
+      <form id="comment-form" class="comment-form">
+        <textarea placeholder="Share your thoughts…" required></textarea>
+        <button type="submit">Post Comment</button>
+      </form>
+    </section>
+  </div>
+  <footer>
+    &copy; 2026 AtlasRegion7. All rights reserved.
+  </footer>
+  <!-- API client and utilities -->
+  <script src="js/api.js"></script>
+  <script src="js/common.js"></script>
+  <script src="js/article.js"></script>
+</body>
+</html>

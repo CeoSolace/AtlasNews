@@ -1,0 +1,221 @@
+[
+  {
+    "id": 1,
+    "slug": "valorant-champions-2025-finals",
+    "region": "north-america",
+    "title": "Valorant Champions 2025: North America Triumphs in Thrilling Finals",
+    "subtitle": "A recap of the epic series that crowned North America's champions",
+    "excerpt": "North America's elite clashed on the world stage as Valorant Champions 2025 came to a nail‑biting conclusion. Here's how the series unfolded and what it means for the region's dominance.",
+    "content": [
+      "The Valorant Champions 2025 finals were a showcase of clutch plays and strategic brilliance. The best teams from across the globe converged on Los Angeles for a weekend of electrifying competition.",
+      "In the end it was a North American squad that lifted the trophy, edging out their European rivals in a tense 3–2 series. From heroic aces to ingenious utility usage, the finals had it all.",
+      "Experts now argue that this victory marks a turning point for the region, cementing North America's status as a powerhouse in the esports landscape."
+    ],
+    "image": "assets/hero-arena.png",
+    "category": "news",
+    "date": "2026-02-20",
+    "author": "Alex Johnson",
+    "trendingScore": 9,
+    "isFeatured": true,
+    "status": "published"
+  },
+  {
+    "id": 2,
+    "slug": "horizon-zero-dawn-ps6-review",
+    "region": "asia",
+    "title": "Horizon Zero Dawn PS6 Review: A Stunning Return to Post‑Apocalypse",
+    "subtitle": "Our in‑depth review of the PS6 remaster",
+    "excerpt": "Sony's beloved open‑world adventure returns on next‑gen hardware. We dissect its performance, visuals and new content on the PS6 platform.",
+    "content": [
+      "When Guerrilla Games announced that Horizon Zero Dawn would receive a PS6 remaster, fans were cautiously optimistic. Could a game from 2017 stand out among a crowded release schedule nearly a decade later?",
+      "The answer is a resounding yes. The PS6 version takes full advantage of the console's horsepower with near‑instant loading, ray‑traced lighting and 120 FPS support in performance mode.",
+      "While the core narrative remains untouched, new side quests and quality‑of‑life improvements make this the definitive edition for both newcomers and veterans alike."
+    ],
+    "image": "assets/hero-controller.png",
+    "category": "review",
+    "date": "2026-02-23",
+    "author": "Kim Lee",
+    "trendingScore": 7,
+    "isFeatured": true,
+    "status": "published"
+  },
+  {
+    "id": 3,
+    "slug": "western-europe-rising-esports-stars",
+    "region": "western-europe",
+    "title": "Western Europe's Rising Esports Stars You Need to Watch",
+    "subtitle": "The next generation of talent is redefining competitive gaming in Europe",
+    "excerpt": "As the esports scene matures, a new crop of prodigies is emerging across Western Europe. We profile the players pushing the boundaries of skill and showmanship.",
+    "content": [
+      "From Copenhagen to Madrid, Western Europe is home to some of the most exciting young talents in competitive gaming. These players are not only topping leaderboards but also cultivating devoted fan bases.",
+      "Organizations are investing heavily in nurturing this talent, creating training facilities and mentorship programs tailored to esports. The result is a pipeline of players who arrive on the world stage poised and prepared.",
+      "With several international events on the horizon, expect these names to become fixtures in the headlines sooner rather than later."
+    ],
+    "image": "assets/hero-trophy.png",
+    "category": "news",
+    "date": "2026-02-18",
+    "author": "Maria Schneider",
+    "trendingScore": 6,
+    "isFeatured": false,
+    "status": "published"
+  },
+  {
+    "id": 4,
+    "slug": "cyber-dragon-launch-eastern-europe",
+    "region": "eastern-europe",
+    "title": "Cyber Dragon Launches in Eastern Europe, Setting New Sales Records",
+    "subtitle": "Eastern Europe's gaming market embraces a sci‑fi blockbuster",
+    "excerpt": "The long‑awaited sci‑fi RPG Cyber Dragon debuted to overwhelming acclaim across Eastern Europe, smashing day‑one sales records and revitalizing local gaming scenes.",
+    "content": [
+      "Cyber Dragon is the first major AAA title from Sapphire Studios, a startup based in Warsaw. The studio promised an immersive open world with a branching narrative and dynamic combat, and it delivered.",
+      "Launch day saw queues forming outside retailers despite digital downloads being readily available. By midnight, social media was flooded with clips of the game's stunning vistas and sound design.",
+      "Industry analysts believe Cyber Dragon could kickstart a new wave of investment in Eastern European game development, putting the region firmly on the map for AAA production."
+    ],
+    "image": "assets/hero-arena.png",
+    "category": "news",
+    "date": "2026-02-15",
+    "author": "Piotr Novak",
+    "trendingScore": 5,
+    "isFeatured": false,
+    "status": "published"
+  },
+  {
+    "id": 5,
+    "slug": "league-south-america-qualifiers",
+    "region": "south-america",
+    "title": "League of Legends South America Qualifiers Ignite Regional Rivalries",
+    "subtitle": "Qualifying rounds deliver surprises and underdog victories",
+    "excerpt": "South America's League of Legends circuit kicked off its qualifiers with electrifying matches. New teams are stepping up, promising a fiercely contested season.",
+    "content": [
+      "Fans across Brazil, Chile and Argentina tuned in to the qualifiers, cheering as underdog rosters upset established names. This unpredictability has injected fresh excitement into the regional league.",
+      "Coaches emphasize that infrastructure improvements and grassroots tournaments have elevated the skill ceiling across South America. Teams are drafting smarter, adapting faster and playing with newfound confidence.",
+      "With playoffs looming, all eyes are on whether these breakthrough teams can maintain momentum and secure spots on the international stage."
+    ],
+    "image": "assets/hero-controller.png",
+    "category": "esports",
+    "date": "2026-02-19",
+    "author": "Gabriela Suarez",
+    "trendingScore": 6,
+    "isFeatured": false,
+    "status": "published"
+  },
+  {
+    "id": 6,
+    "slug": "african-games-studio-sci-fi-epic",
+    "region": "africa",
+    "title": "African Games Studio Breaks Ground with Sci‑Fi Epic",
+    "subtitle": "A new studio in Nairobi aims to put Africa on the AAA map",
+    "excerpt": "Nairobi‑based Celestial Forge announced its debut project, an ambitious sci‑fi action RPG that promises to showcase African storytelling on a global stage.",
+    "content": [
+      "Celestial Forge's founders include veterans from major studios who returned home to develop games inspired by African folklore and futurism.",
+      "The studio is committed to training local talent and leveraging regional art traditions. Early concept art has captivated fans with its vibrant colors and imaginative creatures.",
+      "Investors are taking note as Celestial Forge's announcement video racked up millions of views within days. Development is still early, but enthusiasm is sky‑high."
+    ],
+    "image": "assets/hero-trophy.png",
+    "category": "news",
+    "date": "2026-02-21",
+    "author": "Amina Owusu",
+    "trendingScore": 4,
+    "isFeatured": false,
+    "status": "published"
+  },
+  {
+    "id": 7,
+    "slug": "wave-rider-indie-review",
+    "region": "oceania",
+    "title": "Review: Oceania's Hidden Gem 'Wave Rider' Is a Surf‑Inspired Delight",
+    "subtitle": "An indie studio delivers an unforgettable journey across procedurally generated waves",
+    "excerpt": "Wave Rider blends rhythmic gameplay with a dreamy art style to capture the spirit of the Pacific. We dive into what makes this indie gem shine.",
+    "content": [
+      "Developed by a small team in Auckland, Wave Rider has quickly garnered a cult following for its relaxing yet challenging gameplay.",
+      "Players surf across shifting waves, performing tricks to build combos while a dynamic soundtrack adapts to their performance. The result is a mesmerizing flow state that keeps sessions fresh.",
+      "Despite its humble scope, Wave Rider proves that Oceania's indies can stand toe‑to‑toe with global hits when it comes to creativity and polish."
+    ],
+    "image": "assets/hero-controller.png",
+    "category": "review",
+    "date": "2026-02-17",
+    "author": "Liam Chen",
+    "trendingScore": 5,
+    "isFeatured": false,
+    "status": "published"
+  },
+  {
+    "id": 8,
+    "slug": "esports-pulse-feb26-2026",
+    "region": "asia",
+    "title": "Esports Pulse: Week of February 26, 2026",
+    "subtitle": "From roster shuffles to record‑breaking prize pools, here's your weekly esports digest",
+    "excerpt": "Our Esports Pulse recaps the biggest stories in competitive gaming. This week saw major roster changes and prize pool announcements that set new records.",
+    "content": [
+      "Team movements dominated the headlines as several high‑profile players announced surprise transfers. Analysts speculate that these shuffles could create new superteams ahead of the spring season.",
+      "Meanwhile, tournament organizers revealed prize pools exceeding previous years, signaling the continuing growth and commercialization of esports across regions.",
+      "We also spotlight a handful of breakout streamers whose unique content is drawing mainstream attention to competitive gaming."
+    ],
+    "image": "assets/hero-arena.png",
+    "category": "esports",
+    "date": "2026-02-26",
+    "author": "Chen Wang",
+    "trendingScore": 8,
+    "isFeatured": false,
+    "status": "published"
+  },
+  {
+    "id": 9,
+    "slug": "ps6-performance-review-future-console-gaming",
+    "region": "north-america",
+    "title": "PS6 Performance Review: The Future of Console Gaming",
+    "subtitle": "We put Sony's next‑gen machine through its paces",
+    "excerpt": "After months of anticipation, the PlayStation 6 has arrived. Our technical analysis reveals where it shines and where next‑gen expectations fall short.",
+    "content": [
+      "The PS6's custom hardware delivers blistering load times and seamless transitions between scenes. New compression algorithms also reduce game install sizes compared to its predecessor.",
+      "Our benchmarks show consistent 120 FPS performance in supported titles, though early firmware limits ray tracing in some scenarios. Sony promises updates will unlock the full potential.",
+      "Backwards compatibility ensures your existing library carries over, while enhancements upscale older games to near‑native resolution. The PS6 makes a compelling case for the future of console gaming."
+    ],
+    "image": "assets/hero-controller.png",
+    "category": "review",
+    "date": "2026-02-24",
+    "author": "Dana Smith",
+    "trendingScore": 7,
+    "isFeatured": false,
+    "status": "published"
+  }
+  ,
+  {
+    "id": 10,
+    "slug": "sample-draft-article",
+    "region": "north-america",
+    "title": "Draft: Emerging Studio Interview",
+    "subtitle": "A behind‑the‑scenes look at an indie studio (draft)",
+    "excerpt": "This draft article highlights a promising indie studio and is currently awaiting further edits.",
+    "content": [
+      "This article is still in draft and awaiting a writer's polishing touches.",
+      "It will explore the creative process behind a rising studio's upcoming title."
+    ],
+    "image": "assets/hero-trophy.png",
+    "category": "news",
+    "date": "2026-02-28",
+    "author": "writerTom",
+    "trendingScore": 0,
+    "isFeatured": false,
+    "status": "draft"
+  },
+  {
+    "id": 11,
+    "slug": "sample-pending-review",
+    "region": "asia",
+    "title": "Pending Review: New VR MMORPG Hands‑On",
+    "subtitle": "First impressions of an ambitious virtual reality MMO",
+    "excerpt": "Our reviewer shares unfiltered thoughts after spending five hours in the closed beta of an upcoming VR MMORPG.",
+    "content": [
+      "This article awaits approval from the review team.",
+      "It explores the mechanics, visuals and community features of the next big VR title."
+    ],
+    "image": "assets/hero-arena.png",
+    "category": "review",
+    "date": "2026-02-27",
+    "author": "reviewerAnna",
+    "trendingScore": 0,
+    "isFeatured": false,
+    "status": "pending-review"
+  }
+]

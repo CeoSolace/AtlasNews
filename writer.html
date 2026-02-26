@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AtlasRegion7 – Writer Dashboard</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <div class="logo-container">
+      <img src="assets/logo.png" alt="AtlasRegion7 Logo">
+      <span>AtlasRegion7</span>
+    </div>
+    <div id="header-user" style="cursor:pointer; font-size:0.85rem;"></div>
+  </header>
+  <div class="container">
+    <h2 style="margin-top:1rem;">Writer Dashboard</h2>
+    <section id="writer-articles" class="panel"></section>
+    <section id="writer-new" class="panel">
+      <h4>Create New Draft</h4>
+      <form id="draft-form" class="form">
+        <div class="form-group">
+          <label for="draft-title">Title</label>
+          <input type="text" id="draft-title" required>
+        </div>
+        <div class="form-group">
+          <label for="draft-subtitle">Subtitle</label>
+          <input type="text" id="draft-subtitle" required>
+        </div>
+        <div class="form-group">
+          <label for="draft-region">Region</label>
+          <select id="draft-region">
+            <option value="north-america">North America</option>
+            <option value="south-america">South America</option>
+            <option value="western-europe">Western Europe</option>
+            <option value="eastern-europe">Eastern Europe</option>
+            <option value="asia">Asia</option>
+            <option value="africa">Africa</option>
+            <option value="oceania">Oceania</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label for="draft-category">Category</label>
+          <select id="draft-category">
+            <option value="news">News</option>
+            <option value="review">Review</option>
+            <option value="esports">Esports</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label for="draft-content">Content</label>
+          <textarea id="draft-content" rows="6" required></textarea>
+        </div>
+        <div class="form-group">
+          <button type="submit">Save Draft</button>
+        </div>
+      </form>
+    </section>
+  </div>
+  <footer>
+    &copy; 2026 AtlasRegion7. All rights reserved.
+  </footer>
+  <!-- API client and utilities -->
+  <script src="js/api.js"></script>
+  <script src="js/common.js"></script>
+  <script src="js/writer.js"></script>
+</body>
+</html>

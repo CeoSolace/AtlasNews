@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "articleSlug": "valorant-champions-2025-finals",
+    "userId": 5,
+    "parentId": null,
+    "content": "What a great finals! NA finally on top.",
+    "timestamp": "2026-02-22T10:00:00Z",
+    "likes": 12,
+    "removed": false,
+    "removedBy": null
+  },
+  {
+    "id": 2,
+    "articleSlug": "valorant-champions-2025-finals",
+    "userId": 6,
+    "parentId": 1,
+    "content": "Totally agree! Can't wait for next season.",
+    "timestamp": "2026-02-22T11:00:00Z",
+    "likes": 5,
+    "removed": false,
+    "removedBy": null
+  },
+  {
+    "id": 3,
+    "articleSlug": "horizon-zero-dawn-ps6-review",
+    "userId": 6,
+    "parentId": null,
+    "content": "This remaster looks amazing. Is the 120 FPS stable?",
+    "timestamp": "2026-02-24T09:00:00Z",
+    "likes": 3,
+    "removed": false,
+    "removedBy": null
+  },
+  {
+    "id": 4,
+    "articleSlug": "horizon-zero-dawn-ps6-review",
+    "userId": 3,
+    "parentId": 3,
+    "content": "In our tests we saw drops only in dense areas. Overall it's smooth.",
+    "timestamp": "2026-02-24T10:30:00Z",
+    "likes": 2,
+    "removed": false,
+    "removedBy": null
+  },
+  {
+    "id": 5,
+    "articleSlug": "western-europe-rising-esports-stars",
+    "userId": 5,
+    "parentId": null,
+    "content": "Rooting for these new players!",
+    "timestamp": "2026-02-19T08:00:00Z",
+    "likes": 7,
+    "removed": false,
+    "removedBy": null
+  },
+  {
+    "id": 6,
+    "articleSlug": "western-europe-rising-esports-stars",
+    "userId": 2,
+    "parentId": 5,
+    "content": "They're talented, but they need more stage experience.",
+    "timestamp": "2026-02-19T09:15:00Z",
+    "likes": 1,
+    "removed": false,
+    "removedBy": null
+  },
+  {
+    "id": 7,
+    "articleSlug": "cyber-dragon-launch-eastern-europe",
+    "userId": 5,
+    "parentId": null,
+    "content": "Cyber Dragon is mind-blowing. The world is huge.",
+    "timestamp": "2026-02-16T12:00:00Z",
+    "likes": 4,
+    "removed": false,
+    "removedBy": null
+  },
+  {
+    "id": 8,
+    "articleSlug": "league-south-america-qualifiers",
+    "userId": 6,
+    "parentId": null,
+    "content": "Those matches were intense! Under dogs stepping up.",
+    "timestamp": "2026-02-20T18:00:00Z",
+    "likes": 6,
+    "removed": false,
+    "removedBy": null
+  },
+  {
+    "id": 9,
+    "articleSlug": "wave-rider-indie-review",
+    "userId": 5,
+    "parentId": null,
+    "content": "I hadn't heard of Wave Rider, but it sounds relaxing.",
+    "timestamp": "2026-02-18T14:00:00Z",
+    "likes": 2,
+    "removed": false,
+    "removedBy": null
+  },
+  {
+    "id": 10,
+    "articleSlug": "ps6-performance-review-future-console-gaming",
+    "userId": 6,
+    "parentId": null,
+    "content": "Can we get more info about the PS6 SSD? Loading times are insane!",
+    "timestamp": "2026-02-25T17:00:00Z",
+    "likes": 1,
+    "removed": false,
+    "removedBy": null
+  },
+  {
+    "id": 11,
+    "articleSlug": "ps6-performance-review-future-console-gaming",
+    "userId": 2,
+    "parentId": 10,
+    "content": "We measured sub‑second load times in Spider‑Man; article update coming soon.",
+    "timestamp": "2026-02-25T18:20:00Z",
+    "likes": 0,
+    "removed": false,
+    "removedBy": null
+  },
+  {
+    "id": 12,
+    "articleSlug": "valorant-champions-2025-finals",
+    "userId": 5,
+    "parentId": null,
+    "content": "This comment was inappropriate.",
+    "timestamp": "2026-02-22T09:00:00Z",
+    "likes": 0,
+    "removed": true,
+    "removedBy": 2
+  }
+]
